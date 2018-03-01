@@ -6,7 +6,7 @@ Cake.FluentMigrator is an Addin for [Cake](http://cakebuild.net/) which allows t
 
 ## Information
 
-||Stable|Pre-release|
+| |Stable|Pre-release|
 |:--:|:--:|:--:|
 |GitHub Release|-|[![GitHub release](https://img.shields.io/github/release/cake-contrib/Cake.FluentMigrator.svg)](https://github.com/cake-contrib/Cake.FluentMigrator/releases/latest)|
 |NuGet|[![NuGet](https://img.shields.io/nuget/v/Cake.FluentMigrator.svg)](https://www.nuget.org/packages/Cake.FluentMigrator)|[![NuGet](https://img.shields.io/nuget/vpre/Cake.FluentMigrator.svg)](https://www.nuget.org/packages/Cake.FluentMigrator)|
@@ -20,6 +20,10 @@ Cake.FluentMigrator is an Addin for [Cake](http://cakebuild.net/) which allows t
 ## Code Coverage
 
 [![Coverage Status](https://coveralls.io/repos/github/cake-contrib/Cake.FluentMigrator/badge.svg?branch=develop)](https://coveralls.io/github/cake-contrib/Cake.FluentMigrator?branch=develop)
+
+## Quick Links
+
+- [Documentation](https://cake-contrib.github.io/Cake.FluentMigrator/)
 
 ## Chat Room
 Come join in the conversation about Cake.FluentMigrator in our Gitter Chat Room
